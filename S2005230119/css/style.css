@@ -1,77 +1,207 @@
-*{
-    margin: 0;
-    padding: 0;
+img{
+    margin-left: 300px;
 }
-li{
-    list-style: none;
+body{
+    height: 1800px;
 }
-.main {
-    height: 33px;
-    background-color: #e3e4e5;
+.zx{
+    width: 815px;
+    height: 10px;
+    margin-left: 300px;
+    margin-top: 45px;
+    background-color: #53a4f4;
 }
-.top{
-    float: right;
-    height: 35px;
-    margin-right: 163px;
+h2{
+    margin-left: 600px;
+    margin-top: 34px;
+    font-size: 14px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #4c4c74;
+}
+.xs{
+    font-size: 16px;
+    color: #666666;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 315px;
+    margin-top: 34px;
+}
+.A{
+    border: #dbdbdb 2px solid;
+    height: 20px;
+    margin-left: 330px;
+}
+.xb{
+    font-size: 16px;
+    color: #666666;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 315px;
+    margin-top: 30px;
+}
+span{
+    color: red;
+}
+.nan{
     font-size: 12px;
-    line-height: 33px;
-    color: #adadae;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 325px;
+}
+.nv{
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 325px;
+    margin-top: 10px;
+}
+.xh{
+    font-size: 16px;
+    color: #666666;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 315px;
+    margin-top: 46px;
+}
+.B{
+    border: #dbdbdb 2px solid;
+    height: 20px;
+    margin-left: 330px;
+}
+.bj{
+    font-size: 16px;
+    color: #666666;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 315px;
+    margin-top: 39px;
+}
+.C{
+    border: #dbdbdb 2px solid;
+    margin-left: 330px;
+}
+.lx{
+    font-size: 16px;
+    color: #666666;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 315px;
+    margin-top: 37px;
+}
+.D{
+    border: #dbdbdb 2px solid;
+    margin-left: 330px;
+}
+.ph{
+    padding: 10px;
+    margin-left: 25px;
+    margin-top: -29px;
+}
+.jz{
+    font-size: 16px;
+    color: #666666;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 315px;
+    margin-top: 43px;
+}
+.E{
+    border: #dbdbdb 2px solid;
+    margin-left: 330px;
+}
+.hp{
+    margin-left: 36px;
+    margin-top: -20px;
+}
+.xj{
+    font-size: 16px;
+    color: #666666;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 315px;
+    margin-top: 43px;
+}
+.xz{
+    font-size: 14px;
+    color: #666666;
+    border: #dbdbdb 2px solid;
+    margin-left: 330px;
+}
+.cs{
+    font-size: 14px;
+    color: #666666;
+    border: #dbdbdb 2px solid;
+}
+.xq{
+    font-size: 14px;
+    color: #666666;
+    border: #dbdbdb 2px solid;
+}
+.dz{
+    border: #dbdbdb 2px solid;
+    margin-left: 330px;
+    margin-top: 10px;
+    height: 40px;
+}
+.xx{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px;
+    margin-left: 332px;
+    margin-top: -43px;
+}
+.yc{
+    font-size: 16px;
+    color: #666666;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 315px;
+    margin-top: 55px;
+}
+.qz{
     
+    margin-left: 330px;
 }
-.main ul li{
-    float: left;
-    height: 35px;
-    margin-right: 10px;
-    padding-left: 10px;
-    padding-right: 16px;
-
+.ys{
+    margin-left: 330px;
 }
-
-.dh{
-    display: none;
-    margin-left: -10px;
-    width: 4px;
+.gl{
+    margin-left: 330px;
+}
+.qt{
     
+    margin-left: 330px;
 }
-.dh li{
-    display: block;
-    float: right;
+.L{
+    border: #dbdbdb 2px solid;
 }
-.main .top li:hover{
-    background-color: white;
-    color: tomato;
+.jh{
+    font-size: 16px;
+    color: #666666;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 315px;
+    margin-top: 30px;
 }
-.main .top li:hover ul{
-    display: block;
+.hj{
+    border: #dbdbdb 2px solid;
+    margin-left: 330px;
+    height: 40px;
 }
-.top .dh li{
-    display: block;
-    z-index: 100px;
-    padding-left: 10px;
-    padding-right: 10px;
+.F{
+    margin-left: 235px;
+    margin-top: -30px;
 }
-.zh{
-    left: 0;
-    width: 282px;
-    height: 163px;
-    background-color: white;
+.cl{
+    font-size: 16px;
+    color: #666666;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 315px;
+    margin-top: 34px;
 }
-.jdlist{
-    width: 280px;
-    height: 92px;
+.wj{
+    margin-left: 300px;
 }
-.for1{
-    float: left;
-    width: 126px;
+.zz{
+    
+    border: #dbdbdb 2px solid;
+    height: 40px;
+    margin-left: 330px;
 }
-.for2{
-    float: left;
-    width: 126px;
+.zz1{
+    width: 100px;
+    margin-left: 350px;
+    margin-top: 30px;
+    background-color: #53a4f4;
 }
-.tp{
-    width: 1440px;
-    height: 194px;
-    margin-left: 130px;
-    margin-top: -10px;
-    background: url(../images/jd.png) no-repeat center;
+.K{
+    margin-left: 218px;
+    margin-top: -26px;
 }
